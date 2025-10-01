@@ -22,8 +22,8 @@ const LogosWrapper = styled.div`
   animation: ${fadeIn} 0.6s ease-out;
 
   @media (max-width: 768px) {
-    flex-direction: column;
-    gap: 15px;
+    flex-direction: row;
+    gap: 60px;
     padding-top: 30px;
     padding-bottom: 15px;
   }
