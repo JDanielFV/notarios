@@ -5,6 +5,7 @@ import Titulo from "./assets/components/Title";
 import Container from "./assets/components/Container";
 import LogosInferiores from "./assets/components/LogosInferiores";
 import datos from "./data/datos.json";
+import Splash from "./assets/components/Splash";
 
 function AppContent() {
   const params = useParams();
@@ -20,6 +21,7 @@ function AppContent() {
   }
   return (
     <>
+    <Splash></Splash>
     <Container>
       <Titulo>Notaría { notaria.id }</Titulo>
       <Card nombre={notaria.nombre} cargo={notaria.cargo} ubicacion={notaria.ubicación}></Card>
