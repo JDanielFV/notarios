@@ -1,4 +1,15 @@
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
+
+const fadeIn = keyframes`
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+`;
 
 const Btn = styled.a`
   display: inline-block;
@@ -19,6 +30,7 @@ const Btn = styled.a`
   min-width: 150px;
   text-shadow: 0 2px 8px rgba(0,0,0,0.6);
   transition: transform 160ms ease, box-shadow 180ms ease, background 180ms ease;
+  animation: ${fadeIn} 0.5s ease-out;
 
   &::before {
     content: '';

@@ -1,4 +1,15 @@
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
+
+const fadeIn = keyframes`
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+`;
 
 const CardWrapper = styled.div`
   background: rgba(255, 255, 255, 0.25);
@@ -10,6 +21,7 @@ const CardWrapper = styled.div`
   text-align: center;
   max-width: 400px;
   margin: 20px;
+  animation: ${fadeIn} 0.5s ease-out;
 `;
 
 const Nombre = styled.h1`
@@ -17,7 +29,7 @@ const Nombre = styled.h1`
   font-weight: bold;
   margin: 0;
   color: #fff;
-  text-shadow: 0 6px 18px rgba(0,0,0,0.55), 0 1px 0 rgba(255,255,255,0.02);
+  text-shadow: 0 6px 18px rgba(0, 0, 0, 0.55), 0 1px 0 rgba(255, 255, 255, 0.02);
 
   @media (max-width: 768px) {
     font-size: 1.8em;
@@ -28,15 +40,14 @@ const Cargo = styled.p`
   font-size: 1.5em;
   margin: 0px 0 0;
   color: #fff;
-  text-shadow: 0 4px 12px rgba(0,0,0,0.45);
+  text-shadow: 0 4px 12px rgba(0, 0, 0, 0.45);
 
   @media (max-width: 768px) {
     font-size: 1.3em;
   }
 `;
 
-
-const Card = ({ nombre, cargo, ubicacion  }) => {
+const Card = ({ nombre, cargo, ubicacion }) => {
   return (
     <CardWrapper>
       <Nombre>{nombre}</Nombre>

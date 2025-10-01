@@ -1,4 +1,15 @@
-import styled from "styled-components";
+import styled, { keyframes } from "styled-components";
+
+const fadeIn = keyframes`
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+`;
 
 const LogosWrapper = styled.div`
   display: flex;
@@ -8,6 +19,7 @@ const LogosWrapper = styled.div`
   margin-top: auto; /* Pushes the logos to the bottom of the flex container */
   padding-top: 40px; /* Add some padding above the logos */
   padding-bottom: 20px; /* Add some padding below the logos */
+  animation: ${fadeIn} 0.6s ease-out;
 
   @media (max-width: 768px) {
     flex-direction: column;
