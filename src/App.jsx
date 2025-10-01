@@ -1,0 +1,47 @@
+import { useParams, BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Card from "./assets/components/Card";
+import Btn from "./assets/components/Button";
+import Titulo from "./assets/components/Title";
+import Container from "./assets/components/Container";
+import LogosInferiores from "./assets/components/LogosInferiores";
+import datos from "./data/datos.json";
+
+function AppContent() {
+  const params = useParams();
+  const id = parseInt(params.id);
+  const notaria = datos.find(item => item.id === id);
+
+  if (!notaria) {
+    return (
+      <Container>
+        <Titulo>Notaría no encontrada</Titulo>
+      </Container>
+    );
+  }
+  return (
+    <>
+    <Container>
+      <Titulo>Notaría { notaria.id }</Titulo>
+      <Card nombre={notaria.nombre} cargo={notaria.cargo} ubicacion={notaria.ubicación}></Card>
+      <Btn href={notaria.tarjeta}>Tarjeta de contacto</Btn>
+      <Btn href={notaria.maps}>Ubicación</Btn>
+      <Btn href={notaria.nombramiento}>Nombramiento</Btn>
+      <LogosInferiores/>
+    </Container>
+    </>
+  )
+}
+
+
+function App() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/:id" element={<AppContent />} />
+        {/* Opcional: ruta por defecto para redirigir o mostrar lista */}
+        <Route path="/" element={<div>Selecciona un ID en la URL, como /1</div>} />
+      </Routes>
+    </Router>
+  );
+}
+export default App
