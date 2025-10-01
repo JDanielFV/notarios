@@ -23,13 +23,13 @@ function AppContent() {
     <Container>
       <Titulo>Notaría { notaria.id }</Titulo>
       <Card nombre={notaria.nombre} cargo={notaria.cargo} ubicacion={notaria.ubicación}></Card>
-      <Btn href={notaria.tarjeta}>Tarjeta de contacto</Btn>
-      <Btn href={notaria.maps}>Ubicación</Btn>
-      <Btn href={notaria.nombramiento}>Nombramiento</Btn>
+      <Btn href={notaria.tarjeta} target='_blank' rel='noopener noreferrer'>Tarjeta de contacto</Btn>
+      <Btn href={notaria.maps} target='_blank' rel='noopener noreferrer'>Ubicación</Btn>
+      <Btn href={notaria.nombramiento} target='_blank' rel='noopener noreferrer'>Nombramiento</Btn>
       <LogosInferiores/>
     </Container>
     </>
-  )
+  ) 
 }
 
 
