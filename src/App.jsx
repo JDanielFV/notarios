@@ -37,7 +37,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/id=?:id" element={<AppContent />} />
+        <Route path="/:id" element={<AppContent />} />
         {/* Opcional: ruta por defecto para redirigir o mostrar lista */}
         <Route path="/" element={<div>Selecciona un ID en la URL, como /1</div>} />
       </Routes>
