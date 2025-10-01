@@ -5,7 +5,7 @@ const ContainerWrapper = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  min-height: 100vh;
+  min-height: 100dvh;
   padding: 20px;
   box-sizing: border-box;
   width: 100%;
