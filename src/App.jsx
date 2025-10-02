@@ -37,11 +37,12 @@ function AppContent() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/notarios/">
       <Routes>
-        <Route basename="/" path="/:id" element={<AppContent />} />
+        <Route path="/:id" element={<AppContent />} />
+        console.log(import.meta.env.VITE_BASE_URL);
         {/* Opcional: ruta por defecto para redirigir o mostrar lista */}
-        <Route path="/" element={<div>Selecciona un ID en la URL, como /1</div>} />
+        <Route path="/notarios/" element={<div>Selecciona un ID en la URL, como /1</div>} />
       </Routes>
     </Router>
   );
