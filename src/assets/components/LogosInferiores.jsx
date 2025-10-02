@@ -23,7 +23,7 @@ const LogosWrapper = styled.div`
 
   @media (max-width: 768px) {
     flex-direction: row;
-    gap: 60px;
+    gap: 35dvw;
     padding-top: 30px;
     padding-bottom: 15px;
   }
