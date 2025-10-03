@@ -22,7 +22,7 @@ function AppContent() {
   }
 
   return (
-    <div style={{ minHeight: "100vh", cursor: "pointer" }}>
+    <div style={{ minHeight: "100vh", cursor: "pointer", backgroundImage: "url('./background.png')", backgroundSize: "cover", backgroundPosition: "center" }}>
       <Splash />
       <Container>
         <Titulo>Notaría {notaria.id}</Titulo>
