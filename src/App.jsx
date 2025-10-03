@@ -7,6 +7,7 @@ import LogosInferiores from "./assets/components/LogosInferiores";
 import Splash from "./assets/components/Splash";
 import datos from "./data/datos.json";
 
+
 function AppContent() {
   const params = useParams();
   const id = parseInt(params.id);

@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import styled, { keyframes } from "styled-components";
-import audioFile from "/audio.mp3";
+const audioFile = "/notarios/audio.mp3";
 
 const fadeIn = keyframes`
   from {
