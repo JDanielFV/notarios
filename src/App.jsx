@@ -6,12 +6,15 @@ import Container from "./assets/components/Container";
 import LogosInferiores from "./assets/components/LogosInferiores";
 import Splash from "./assets/components/Splash";
 import datos from "./data/datos.json";
+import "./App.css";
+
 
 
 function AppContent() {
   const params = useParams();
   const id = parseInt(params.id);
   const notaria = datos.find(item => item.id === id);
+  
 
   if (!notaria) {
     return (
@@ -22,7 +25,7 @@ function AppContent() {
   }
 
   return (
-    <div style={{ minHeight: "100vh", cursor: "pointer", backgroundImage: "url('./background.png')", backgroundSize: "cover", backgroundPosition: "center" }}>
+    <div style={{ minHeight: "100vh", cursor: "pointer" }}>
       <Splash />
       <Container>
         <Titulo>Notaría {notaria.id}</Titulo>
@@ -31,6 +34,8 @@ function AppContent() {
           cargo={notaria.cargo}
           ubicacion={notaria.ubicación}
         />
+      </Container>
+      <Container>
         <Btn
           href={notaria.tarjeta}
           target='_blank'
@@ -51,6 +56,8 @@ function AppContent() {
           rel='noopener noreferrer'>
           Nombramiento
         </Btn>
+      </Container>
+      <Container>
         <LogosInferiores />
       </Container>
     </div>

@@ -14,18 +14,14 @@ const fadeIn = keyframes`
 const LogosWrapper = styled.div`
   display: flex;
   justify-content: center;
-  align-items: center;
-  gap: 20px; /* Space between images */
-  margin-top: auto; /* Pushes the logos to the bottom of the flex container */
-  padding-top: 40px; /* Add some padding above the logos */
-  padding-bottom: 20px; /* Add some padding below the logos */
+  align-items: space-between;
+  padding: 0 20px 0px 20px;
+  margin-bottom: 20px;
   animation: ${fadeIn} 0.6s ease-out;
 
   @media (max-width: 768px) {
     flex-direction: row;
-    gap: 65dvw;
-    padding-top: 30px;
-    padding-bottom: 15px;
+    justify-content: space-between;
   }
 `;
 
