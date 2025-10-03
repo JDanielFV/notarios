@@ -21,7 +21,7 @@ function AppContent() {
   }
 
   return (
-    <>
+    <div style={{ minHeight: "100vh", cursor: "pointer" }}>
       <Splash />
       <Container>
         <Titulo>Notaría {notaria.id}</Titulo>
@@ -50,10 +50,9 @@ function AppContent() {
           rel='noopener noreferrer'>
           Nombramiento
         </Btn>
-        
         <LogosInferiores />
       </Container>
-    </>
+    </div>
   );
 }
 
