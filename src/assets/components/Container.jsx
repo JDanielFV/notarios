@@ -17,10 +17,14 @@ const ContainerWrapper = styled.div`
 const Container = ({ children }) => {
 
     const audioRef = useRef(new Audio(audioFile));
-  
+    const hasPlayed = useRef(false);
+
     const playSound = () => {
-      audioRef.current.currentTime = 0; 
-      audioRef.current.play();
+        if (!hasPlayed.current) {
+            audioRef.current.currentTime = 0;
+            audioRef.current.play();
+            hasPlayed.current = true;
+        }
     };
   
 

@@ -1,6 +1,4 @@
-import { useRef } from "react";
 import styled, { keyframes } from "styled-components";
-const audioFile = "/notarios/audio.mp3";
 
 const fadeIn = keyframes`
   from {
@@ -51,15 +49,9 @@ const Cargo = styled.p`
 `;
 
 const Card = ({ nombre, cargo, ubicacion }) => {
-  const audioRef = useRef(new Audio(audioFile));
-
-  const playSound = () => {
-    audioRef.current.currentTime = 0; 
-    audioRef.current.play();
-  };
 
   return (
-    <CardWrapper onClick={playSound}>
+    <CardWrapper>
       <Nombre>{nombre}</Nombre>
       <hr />
       <Cargo>{cargo}</Cargo>

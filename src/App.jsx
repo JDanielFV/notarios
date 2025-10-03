@@ -38,22 +38,22 @@ function AppContent() {
       <Container>
         <Btn
           href={notaria.tarjeta}
-          target='_blank'
-          rel='noopener noreferrer'>
+          target="_blank"
+          rel="noopener noreferrer">
           Tarjeta de contacto
         </Btn>
 
         <Btn
           href={notaria.maps}
-          target='_blank'
-          rel='noopener noreferrer'>
+          target="_blank"
+          rel="noopener noreferrer">
           Ubicación
         </Btn>
 
         <Btn
           href={notaria.nombramiento}
-          target='_blank'
-          rel='noopener noreferrer'>
+          target="_blank"
+          rel="noopener noreferrer">
           Nombramiento
         </Btn>
       </Container>
