@@ -1,4 +1,6 @@
+import { useRef } from "react";
 import styled, { keyframes } from "styled-components";
+import audioFile from "/audio.mp3";
 
 const fadeIn = keyframes`
   from {
@@ -22,6 +24,7 @@ const CardWrapper = styled.div`
   max-width: 400px;
   margin: 20px;
   animation: ${fadeIn} 0.5s ease-out;
+  cursor: pointer;
 `;
 
 const Nombre = styled.h1`
@@ -48,12 +51,19 @@ const Cargo = styled.p`
 `;
 
 const Card = ({ nombre, cargo, ubicacion }) => {
+  const audioRef = useRef(new Audio(audioFile));
+
+  const playSound = () => {
+    audioRef.current.currentTime = 0; 
+    audioRef.current.play();
+  };
+
   return (
-    <CardWrapper>
+    <CardWrapper onClick={playSound}>
       <Nombre>{nombre}</Nombre>
       <hr />
       <Cargo>{cargo}</Cargo>
-      <Cargo>{ubicacion}</Cargo>
+      {ubicacion && <Cargo>{ubicacion}</Cargo>}
     </CardWrapper>
   );
 };
