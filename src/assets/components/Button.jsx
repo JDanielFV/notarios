@@ -61,8 +61,8 @@ const Btn = styled.a`
   }
 `;
 
-const Button = ({ href, children }) => {
-  return <Btn href={href}>{children}</Btn>;
+const Button = ({ href, children, ...props }) => {
+  return <Btn href={href} {...props}>{children}</Btn>;
 };
 
 export default Button;

@@ -20,6 +20,20 @@
 </head>
 
 <body>
+  <video autoplay loop muted playsinline
+        style="
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -100;
+            object-fit: cover;
+            object-position: center;
+        ">
+        <source src="/notarios/fondo.webm" type="video/webm">
+    </video>
+ 
   <div id="root"></div>
   <script type="module" src="/src/main.jsx"></script>
 </body>

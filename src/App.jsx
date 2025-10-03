@@ -37,7 +37,7 @@ function AppContent() {
       </Container>
       <Container>
         <Btn
-          href={notaria.tarjeta}
+          href={notaria.tarjeta} 
           target="_blank"
           rel="noopener noreferrer">
           Tarjeta de contacto

@@ -9,7 +9,7 @@
   align-items: center
 }
 
-html{
+/* html{
     height: auto;
     width: 100dvw;
     background-image:linear-gradient(to bottom, #1e1e1e 0%, transparent 15%), 
@@ -21,7 +21,7 @@ html{
     overflow-x: hidden;
     overflow-y: hidden;
     font-family: 'Outfit', sans-serif;
-}
+} */
 
 .logo {
   height: 6em;

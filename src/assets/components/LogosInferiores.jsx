@@ -13,12 +13,12 @@ const fadeIn = keyframes`
 
 const LogosWrapper = styled.div`
   display: flex;
-  justify-content: center;
-  align-items: space-between;
+  justify-content: space-between;
+  align-items: center;
   padding: 0 20px 0px 20px;
   margin-bottom: 20px;
-  animation: ${fadeIn} 0.6s ease-out;
-  gap: 70%;
+  animation: ${fadeIn} 0.6s ease-out;;
+  width: 95%;
 
   @media (max-width: 768px) {
     flex-direction: row;
