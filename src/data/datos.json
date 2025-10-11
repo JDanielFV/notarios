@@ -1,11 +1,1721 @@
 [
   {
+    "id": 1,
+    "nombre": "NOT. ROSALBA RODRÍGUEZ ALMARAZ",
+    "cargo": "Titular Notaría 1",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=414",
+    "maps": "https://maps.app.goo.gl/CuNRHcH1Ya8LYs5q6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=414"
+  },
+  {
+    "id": 2,
+    "nombre": "NOT. SERGIO ROBERTO MAÑÓN DÍAZ",
+    "cargo": "Titular Notaría 2",
+    "ubicación": "TEXCOCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=166",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=166"
+  },
+  {
+    "id": 4,
+    "nombre": "NOT. JUAN CARLOS SÁNCHEZ MÁRQUEZ",
+    "cargo": "Titular Notaría 4",
+    "ubicación": "CHALCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=407",
+    "maps": "https://maps.app.goo.gl/LHAqCUPPVJUFP8d88",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=407"
+  },
+  {
+    "id": 5,
+    "nombre": "NOT. GABRIEL ESCOBAR Y EZETA",
+    "cargo": "Titular Notaría 5",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=63",
+    "maps": "https://maps.app.goo.gl/GUUac3UmrXn4bvx59",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=63"
+  },
+  {
+    "id": 6,
+    "nombre": "NOT. ERICK BENJAMÍN SANTÍN BECERRIL",
+    "cargo": "Titular Notaría 6",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=35",
+    "maps": "https://maps.app.goo.gl/Yuke9KyTPgy9YMXa7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=35"
+  },
+  {
+    "id": 7,
+    "nombre": "NOT. GABRIELA PALOMA LECHUGA VALDÉS",
+    "cargo": "Titular Notaría 7",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=90",
+    "maps": "https://maps.app.goo.gl/fnQCtBqekqDBa91RA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=90"
+  },
+  {
+    "id": 8,
+    "nombre": "NOT. FERNANDO ANTONIO VELASCO TURATI",
+    "cargo": "Titular Notaría 8",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=20",
+    "maps": "https://maps.app.goo.gl/Df1Bprq88ZwNrp6v8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=20"
+  },
+  {
+    "id": 9,
+    "nombre": "NOT. JORGE CLAUDIO IBARROLA MURO",
+    "cargo": "Titular Notaría 9",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=28",
+    "maps": "https://maps.app.goo.gl/r6fnCwzQubCmQnhq8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=28"
+  },
+  {
+    "id": 10,
+    "nombre": "NOT. ROBERTO MENDOZA NAVA",
+    "cargo": "Titular Notaría 10",
+    "ubicación": "CHALCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=396",
+    "maps": "https://maps.app.goo.gl/hR4k6MrC4FGPNHjp7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=396"
+  },
+  {
+    "id": 11,
+    "nombre": "NOT. SILVIA ELENA MEZA GEREZ",
+    "cargo": "Titular Notaría 11",
+    "ubicación": "CHALCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=140",
+    "maps": "https://maps.app.goo.gl/mKyeBzZpQPKCfSMMA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=140"
+  },
+  {
+    "id": 13,
+    "nombre": "NOT. NICOLÁS MALUF MALOFF",
+    "cargo": "Titular Notaría 13",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=134",
+    "maps": "https://maps.app.goo.gl/sN8KviUekBstHcfn7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=134"
+  },
+  {
+    "id": 14,
+    "nombre": "NOT. LAURA DÍAZ SÁMANO DE CALDERA",
+    "cargo": "Titular Notaría 14",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=80",
+    "maps": "https://maps.app.goo.gl/JFQ1PX36ySPna2Br6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=80"
+  },
+  {
+    "id": 15,
+    "nombre": "NOT. EVELYN DEL ROCÍO LECHUGA GÓMEZ",
+    "cargo": "Titular Notaría 15",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=18",
+    "maps": "https://maps.app.goo.gl/BBRd62aGJwb62xRn6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=18"
+  },
+  {
+    "id": 16,
+    "nombre": "NOT. JUAN CARLOS PALAFOX VILLALVA",
+    "cargo": "Titular Notaría 16",
+    "ubicación": "TEXCOCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=422",
+    "maps": "https://maps.app.goo.gl/jnT6HMAdA9vSxWub7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=422"
+  },
+  {
+    "id": 17,
+    "nombre": "NOT. ALFREDO CASO VELÁZQUEZ",
+    "cargo": "Titular Notaría 17",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=106",
+    "maps": "https://maps.app.goo.gl/skzk7Bop5Q4sNb139",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=106"
+  },
+  {
+    "id": 18,
+    "nombre": "NOT. MAURICIO TREJO NAVARRO",
+    "cargo": "Titular Notaría 18",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=66",
+    "maps": "https://maps.app.goo.gl/Mpo9dawedJoAfd9H8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=66"
+  },
+  {
+    "id": 19,
+    "nombre": "NOT. ARMANDO ALBERTO GAMIO PETRICIOLI",
+    "cargo": "Titular Notaría 19",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=74",
+    "maps": "https://maps.app.goo.gl/77bUwAWWx7o3o8q38",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=74"
+  },
+  {
+    "id": 20,
+    "nombre": "NOT. RODOLFO SANTOS GONZÁLEZ SALCEDO",
+    "cargo": "Titular Notaría 20",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=142",
+    "maps": "https://maps.app.goo.gl/FDJEruXBS9WL2FNp8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=142"
+  },
+  {
+    "id": 21,
+    "nombre": "NOT. GUILLERMO EDUARDO VELÁZQUEZ QUINTANA",
+    "cargo": "Titular Notaría 21",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=123",
+    "maps": "https://maps.app.goo.gl/YqLupyEW42TXYe2S9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=123"
+  },
+  {
+    "id": 22,
+    "nombre": "NOT. CARLOS OTERO RODRÍGUEZ",
+    "cargo": "Titular Notaría 22",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=73",
+    "maps": "https://maps.app.goo.gl/GABGUUUPCQ2dm1N37",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=73"
+  },
+  {
+    "id": 23,
+    "nombre": "NOT. FLOR ALEJANDRA KIWAN ALTAMIRANO",
+    "cargo": "Titular Notaría 23",
+    "ubicación": "NEZAHUALCÓYOTL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=145",
+    "maps": "https://maps.app.goo.gl/dif2b16L4ytZHrXC6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=145"
+  },
+  {
+    "id": 24,
+    "nombre": "NOT. JORGE VALDÉS RAMÍREZ",
+    "cargo": "Titular Notaría 24",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=10",
+    "maps": "https://maps.app.goo.gl/xdDcFRrQGaBP6dyA7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=10"
+  },
+  {
+    "id": 25,
+    "nombre": "NOT. LEOPOLDO LÓPEZ BENÍTEZ",
+    "cargo": "Titular Notaría 25",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=67",
+    "maps": "https://maps.app.goo.gl/929eojG5NWksURQL9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=67"
+  },
+  {
+    "id": 26,
+    "nombre": "NOT. HUGO JAVIER CASTAÑEDA SANTANA",
+    "cargo": "Titular Notaría 26",
+    "ubicación": "OTUMBA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=129",
+    "maps": "https://maps.app.goo.gl/xHin45FaozuLkLMq6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=129"
+  },
+  {
+    "id": 27,
+    "nombre": "NOT. MARCOS PUENTE ROJAS\nINTERINO",
+    "cargo": "Titular Notaría 27",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=127",
+    "maps": "https://maps.app.goo.gl/Zqdq3eNtUutkDvWQ6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=127"
+  },
+  {
+    "id": 28,
+    "nombre": "NOT. ALFONSO FLORES MACEDO",
+    "cargo": "Titular Notaría 28",
+    "ubicación": "NEZAHUALCÓYOTL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=160",
+    "maps": "https://maps.app.goo.gl/XDZ262tp6bMRRPE48",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=160"
+  },
+  {
+    "id": 29,
+    "nombre": "NOT. JOSÉ ANTONIO REYES DUARTE",
+    "cargo": "Titular Notaría 29",
+    "ubicación": "NEZAHUALCÓYOTL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=92",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=92"
+  },
+  {
+    "id": 30,
+    "nombre": "NOT. JORGE ALBERTO GOÑI ROJO",
+    "cargo": "Titular Notaría 30",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=39",
+    "maps": "https://maps.app.goo.gl/K2nHNFVVVpX9EPsN9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=39"
+  },
+  {
+    "id": 31,
+    "nombre": "NOT. MARÍA DE LOURDES SALAS ARREDONDO",
+    "cargo": "Titular Notaría 31",
+    "ubicación": "CUAUTITLÁN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=157",
+    "maps": "https://maps.app.goo.gl/sjw3PqtzCpq4g2WF7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=157"
+  },
+  {
+    "id": 33,
+    "nombre": "NOT. MARÍANA SANDOVAL IGARTÚA",
+    "cargo": "Titular Notaría 33",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=76",
+    "maps": "https://maps.app.goo.gl/tm88ErijRTztAfPU8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=76"
+  },
+  {
+    "id": 34,
+    "nombre": "NOT. RAMÓN DIEZ GUTIÉRREZ SENTÍES",
+    "cargo": "Titular Notaría 34",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=397",
+    "maps": "https://maps.app.goo.gl/mXdkibAm78dSnmv36",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=397"
+  },
+  {
+    "id": 35,
+    "nombre": "NOT. CARLOS LEOPOLDO MEZA REYES",
+    "cargo": "Titular Notaría 35",
+    "ubicación": "JILOTZINGO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=77",
+    "maps": "https://maps.app.goo.gl/j6owtPjJUfDhhJMb8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=77"
+  },
+  {
+    "id": 36,
+    "nombre": "NOT. LAURA PATRICIA GARCÍA SÁNCHEZ",
+    "cargo": "Titular Notaría 36",
+    "ubicación": "CUAUTITLÁN IZCALLI, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=8",
+    "maps": "https://maps.app.goo.gl/LNfUPaGtgUVKmQr4A",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=8"
+  },
+  {
+    "id": 37,
+    "nombre": "NOT. RAFAEL MARTÍN ECHEVERRI GONZÁLEZ",
+    "cargo": "Titular Notaría 37",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=136",
+    "maps": "https://maps.app.goo.gl/CXX6cGH1KVih3McS8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=136"
+  },
+  {
+    "id": 38,
+    "nombre": "NOT. JUAN CORTIÑAS BARAJAS",
+    "cargo": "Titular Notaría 38",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=47",
+    "maps": "https://maps.app.goo.gl/Qv3k3MZxWvYdX9Aw8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=47"
+  },
+  {
+    "id": 39,
+    "nombre": "NOT. ARACELI HERNÁNDEZ DE COSS",
+    "cargo": "Titular Notaría 39",
+    "ubicación": "NEZAHUALCÓYOTL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=11",
+    "maps": "https://maps.app.goo.gl/spzGFFfqi5fiSRFr5",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=11"
+  },
+  {
+    "id": 40,
+    "nombre": "NOT. JORGE ANTONIO FRANCOZ GÁRATE",
+    "cargo": "Titular Notaría 40",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=165",
+    "maps": "https://maps.app.goo.gl/rvTfYGoMMBUpDkxUA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=165"
+  },
+  {
+    "id": 41,
+    "nombre": "NOT. ARCADIO ALBERTO SÁNCHEZ HENKEL GÓMEZTAGLE",
+    "cargo": "Titular Notaría 41",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=135",
+    "maps": "https://maps.app.goo.gl/4oD4XzbTduWwvfWr7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=135"
+  },
+  {
+    "id": 42,
+    "nombre": "NOT. FERNANDO TRUEBA BUENFIL",
+    "cargo": "Titular Notaría 42",
+    "ubicación": "NEZAHUALCÓYOTL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=158",
+    "maps": "https://maps.app.goo.gl/AtcARxkYpZA4zAjEA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=158"
+  },
+  {
+    "id": 43,
+    "nombre": "NOT. DIEGO DEL VALLE MARTÍNEZ DEL RÍO",
+    "cargo": "Titular Notaría 43",
+    "ubicación": "OCOYOACAC, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=398",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=398"
+  },
+  {
+    "id": 44,
+    "nombre": "NOT. ALEJANDRO EUGENIO PÉREZ TEUFFER FOURNIER",
+    "cargo": "Titular Notaría 44",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=174",
+    "maps": "https://maps.app.goo.gl/dMWQ72Pdd1yTMFcs5",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=174"
+  },
+  {
+    "id": 45,
+    "nombre": "NOT. JESÚS ZAMUDIO RODRÍGUEZ",
+    "cargo": "Titular Notaría 45",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=139",
+    "maps": "https://maps.app.goo.gl/UHHnfC86whAKJNbS7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=139"
+  },
+  {
+    "id": 46,
+    "nombre": "NOT. JULIETA SANDOVAL ALMAZÁN",
+    "cargo": "Titular Notaría 46",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=143",
+    "maps": "https://maps.app.goo.gl/c9yvPkea8NJxAGLH9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=143"
+  },
+  {
+    "id": 47,
+    "nombre": "NOT. EDUARDO SEGOVIA ABASCAL",
+    "cargo": "Titular Notaría 47",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=149",
+    "maps": "https://maps.app.goo.gl/4ZFU11MW14fbm9BK8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=149"
+  },
+  {
+    "id": 48,
+    "nombre": "NOT.  MIGUEL ÁNGEL GUTÍERREZ MONTERO",
+    "cargo": "Titular Notaría 48",
+    "ubicación": "SANTIAGO TIANGUISTENCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=61",
+    "maps": "https://maps.app.goo.gl/quQrx1zZRS1Dmga29",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=61"
+  },
+  {
+    "id": 49,
+    "nombre": "NOT. MARÍA GUADALUPE MORENO GARCÍA",
+    "cargo": "Titular Notaría 49",
+    "ubicación": "IXTLAHUACA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=152",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=152"
+  },
+  {
+    "id": 50,
+    "nombre": "NOT. OSCAR RAÚL NAIME LIBIEN",
+    "cargo": "Titular Notaría 50",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=34",
+    "maps": "https://maps.app.goo.gl/R4g5Qd7zbbu8FHdd6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=34"
+  },
+  {
+    "id": 51,
+    "nombre": "NOT. JOSÉ ANTONIO GUTIÉRREZ MONTERO",
+    "cargo": "Titular Notaría 51",
+    "ubicación": "TENANCINGO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=55",
+    "maps": "https://maps.app.goo.gl/YfrmYpZHQfL2gpsf6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=55"
+  },
+  {
+    "id": 52,
+    "nombre": "NOT. DAVID MAYEN ROCHA",
+    "cargo": "Titular Notaría 52",
+    "ubicación": "ZUMPANGO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=24",
+    "maps": "https://maps.app.goo.gl/YpZQUe6KdHZKEnf27",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=24"
+  },
+  {
+    "id": 53,
+    "nombre": "NOT. JOSÉ ANTONIO ZORRAQUÍN PAREDES",
+    "cargo": "Titular Notaría 53",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=408",
+    "maps": "https://maps.app.goo.gl/u4hTS5WLgFCKo6Cb6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=408"
+  },
+  {
+    "id": 54,
+    "nombre": "NOT. YUNUÉN NIÑO DE RIVERA LEAL",
+    "cargo": "Titular Notaría 54",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=154",
+    "maps": "https://maps.app.goo.gl/H4UxsyrUJqSv2gfy8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=154"
+  },
+  {
+    "id": 55,
+    "nombre": "NOT. LEONARDO RICARDO SÁNCHEZ BERISTÁIN",
+    "cargo": "Titular Notaría 55",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=131",
+    "maps": "https://maps.app.goo.gl/rjMameX5jnf13Nj66",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=131"
+  },
+  {
+    "id": 56,
+    "nombre": "NOT. EDGAR ERIC GARZÓN ZÚÑIGA",
+    "cargo": "Titular Notaría 56",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=54",
+    "maps": "https://maps.app.goo.gl/JnxeA4hEYKfnYE889",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=54"
+  },
+  {
+    "id": 57,
+    "nombre": "NOT. ROLANDO ÁNGEL RIVERA VALDÉS",
+    "cargo": "Titular Notaría 57",
+    "ubicación": "VALLE DE BRAVO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=117",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=117"
+  },
+  {
+    "id": 58,
+    "nombre": "NOT. OMAR MARTÍNEZ VARGAS",
+    "cargo": "Titular Notaría 58",
+    "ubicación": "TULTITLÁN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=178",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=178"
+  },
+  {
+    "id": 59,
+    "nombre": "NOT. HILDA LETICIA PANIAGUA HERNÁNDEZ",
+    "cargo": "Titular Notaría 59",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=101",
+    "maps": "https://maps.app.goo.gl/YXnR9WH58PpiGKC58",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=101"
+  },
+  {
+    "id": 60,
+    "nombre": "NOT. JOSÉ ANTONIO ARMENDÁRIZ MUNGUÍA",
+    "cargo": "Titular Notaría 60",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=88",
+    "maps": "https://maps.app.goo.gl/UA7zjPnoUk57e1j89",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=88"
+  },
+  {
+    "id": 61,
+    "nombre": "NOT. ROBERTO SÁNCHEZ LIRA",
+    "cargo": "Titular Notaría 61",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=70",
+    "maps": "https://maps.app.goo.gl/5VNGYJnzHFs6wgUK8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=70"
+  },
+  {
+    "id": 63,
+    "nombre": "NOT. RITA RAQUEL MARTÍNEZ SALGADO",
+    "cargo": "Titular Notaría 63",
+    "ubicación": "NEZAHUALCÓYOTL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=81",
+    "maps": "https://maps.app.goo.gl/xKgmnr5J1DhaAzMa7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=81"
+  },
+  {
+    "id": 64,
+    "nombre": "NOT. PALOMA VILLALBA ORTÍZ",
+    "cargo": "Titular Notaría 64",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=82",
+    "maps": "https://maps.app.goo.gl/8QZGyHvKkatzRjhEA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=82"
+  },
+  {
+    "id": 65,
+    "nombre": "NOT. JOSÉ LUIS MAZOY KURI",
+    "cargo": "Titular Notaría 65",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=53",
+    "maps": "https://maps.app.goo.gl/eYBng3qUBHMjuAPB7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=53"
+  },
+  {
+    "id": 66,
+    "nombre": "NOT. JUAN JOSÉ AGUILERA ZUBIRÁN\nPROVISIONAL",
+    "cargo": "Titular Notaría 66",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=31",
+    "maps": "https://maps.app.goo.gl/e5WtWsKJ6GNmvAAt7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=31"
+  },
+  {
+    "id": 67,
+    "nombre": "NOT. CARLOS LARA TERRÍQUEZ",
+    "cargo": "Titular Notaría 67",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=94",
+    "maps": "https://maps.app.goo.gl/fjmfN9wFFMyZgwmW7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=94"
+  },
+  {
+    "id": 68,
+    "nombre": "NOT. FRANKLIN LIBIEN KAUI",
+    "cargo": "Titular Notaría 68",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=399",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=399"
+  },
+  {
+    "id": 69,
+    "nombre": "NOT. MARLEN SALAS VILLICAÑA",
+    "cargo": "Titular Notaría 69",
+    "ubicación": "NICOLÁS ROMERO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=64",
+    "maps": "https://maps.app.goo.gl/zLBqqiirKqtx3ai5A",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=64"
+  },
+  {
+    "id": 70,
+    "nombre": "NOT. SALOMÓN VÁZQUEZ VARELA",
+    "cargo": "Titular Notaría 70",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=19",
+    "maps": "https://maps.app.goo.gl/ny9PfDpwXVg21XaF7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=19"
+  },
+  {
+    "id": 71,
+    "nombre": "NOT. ANA CECILIA BALTAZAR REYES",
+    "cargo": "Titular Notaría 71",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=138",
+    "maps": "https://maps.app.goo.gl/JdFdCuBo78sm4pKu7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=138"
+  },
+  {
+    "id": 72,
+    "nombre": "NOT. JUAN MANUEL VALDÉS RODRÍGUEZ",
+    "cargo": "Titular Notaría 72",
+    "ubicación": "TEXCOCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=91",
+    "maps": "https://maps.app.goo.gl/F2CFFieKnoezVBmi6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=91"
+  },
+  {
+    "id": 73,
+    "nombre": "NOT. RENÉ GÁMEZ IMAZ",
+    "cargo": "Titular Notaría 73",
+    "ubicación": "COACALCO DE BERRIOZÁBAL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=116",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=116"
+  },
+  {
+    "id": 74,
+    "nombre": "NOT. ENRIQUE AGUILAR GODÍNEZ",
+    "cargo": "Titular Notaría 74",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=108",
+    "maps": "https://maps.app.goo.gl/9YbM7iXsjZNou8Y2A",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=108"
+  },
+  {
+    "id": 75,
+    "nombre": "NOT. GRACIELA OLIVA JIMÉNEZ GODÍNEZ",
+    "cargo": "Titular Notaría 75",
+    "ubicación": "CUAUTITLÁN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=115",
+    "maps": "https://maps.app.goo.gl/EUphQTx2hqTG1fFC8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=115"
+  },
+  {
+    "id": 76,
+    "nombre": "NOT. GABRIEL ESCOBAR CEBALLOS",
+    "cargo": "Titular Notaría 76",
+    "ubicación": "ACAMBAY DE RUIZ CASTAÑEDA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=32",
+    "maps": "https://maps.app.goo.gl/ZrxFYE2kTWFLgntS8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=32"
+  },
+  {
+    "id": 77,
+    "nombre": "NOT. GUILLERMO ANDRÉS FRANCO ESPINOZA",
+    "cargo": "Titular Notaría 77",
+    "ubicación": "OTUMBA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=424",
+    "maps": "https://maps.app.goo.gl/AM5dNe26ZdjDkNJv7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=424"
+  },
+  {
+    "id": 78,
+    "nombre": "NOT. ISRAEL GÓMEZ PEDRAZA\nINTERINO",
+    "cargo": "Titular Notaría 78",
+    "ubicación": "LERMA DE VILLADA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=162",
+    "maps": "https://maps.app.goo.gl/1MwpuHvT85h3zEcR9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=162"
+  },
+  {
+    "id": 79,
+    "nombre": "NOT. JOSÉ MANUEL HUERTA MARTÍNEZ",
+    "cargo": "Titular Notaría 79",
+    "ubicación": "LOS REYES LA PAZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=50",
+    "maps": "https://maps.app.goo.gl/dJrv18dpXdwfZ7AQ8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=50"
+  },
+  {
+    "id": 80,
+    "nombre": "NOT. DANIEL GOÑI DÍAZ",
+    "cargo": "Titular Notaría 80",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=137",
+    "maps": "https://maps.app.goo.gl/NDvYGfewecZAmJ3p9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=137"
+  },
+  {
+    "id": 81,
+    "nombre": "NOT. JORGE DE JESÚS GALLEGOS GARCÍA",
+    "cargo": "Titular Notaría 81",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=60",
+    "maps": "https://maps.app.goo.gl/57tX7pyrinvTpuqu8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=60"
+  },
+  {
+    "id": 82,
+    "nombre": "NOT. DANIEL VALDÉS BORES",
+    "cargo": "Titular Notaría 82",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=177",
+    "maps": "https://maps.app.goo.gl/4aQwbeK5iLGZVDf36",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=177"
+  },
+  {
+    "id": 83,
+    "nombre": "NOT. NORMA VÉLEZ BAUTISTA",
+    "cargo": "Titular Notaría 83",
+    "ubicación": "ATLACOMULCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=176",
+    "maps": "https://maps.app.goo.gl/yrLekgJpA1LTYc7Y9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=176"
+  },
+  {
+    "id": 84,
+    "nombre": "NOT. PAULINA SALDAÑA FUENTES",
+    "cargo": "Titular Notaría 84",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=7",
+    "maps": "https://maps.app.goo.gl/KUwo4uD4GWDzgHWm8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=7"
+  },
+  {
+    "id": 85,
+    "nombre": "NOT. JUAN CARLOS BORGES CORNISH\nINTERINO",
+    "cargo": "Titular Notaría 85",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=400",
+    "maps": "https://maps.app.goo.gl/UuTz1FoJg9x9HMvw5",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=400"
+  },
+  {
+    "id": 86,
+    "nombre": "NOT. ROSAMARÍA MONTIEL BASTIDA",
+    "cargo": "Titular Notaría 86",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=87",
+    "maps": "https://maps.app.goo.gl/NukBd2LpaQnpU5MWA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=87"
+  },
+  {
+    "id": 88,
+    "nombre": "NOT. AÍDA- AÍXA CHÁVEZ MAGALLANES",
+    "cargo": "Titular Notaría 88",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=43",
+    "maps": "https://maps.app.goo.gl/ThLetg4DsRWo4Sfa8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=43"
+  },
+  {
+    "id": 89,
+    "nombre": "NOT. LUIS OCTAVIO HERMOSO Y COLÍN",
+    "cargo": "Titular Notaría 89",
+    "ubicación": "CUAUTITLÁN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=153",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=153"
+  },
+  {
+    "id": 90,
+    "nombre": "NOT. JUAN CASTAÑEDA SALINAS",
+    "cargo": "Titular Notaría 90",
+    "ubicación": "TULTITLÁN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=169",
+    "maps": "https://maps.app.goo.gl/Fb8Hx45Csu5LmWmX9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=169"
+  },
+  {
+    "id": 91,
+    "nombre": "NOT. ANA LILIA JANETH PORRAS FIGUEROA",
+    "cargo": "Titular Notaría 91",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=113",
+    "maps": "https://maps.app.goo.gl/7WWMKd54oNjtYA2m9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=113"
+  },
+  {
+    "id": 92,
+    "nombre": "NOT. FEDERICO PEDRO VELARDE CRUZ",
+    "cargo": "Titular Notaría 92",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=93",
+    "maps": "https://maps.app.goo.gl/USovsDKQn7zvzAmK8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=93"
+  },
+  {
+    "id": 93,
+    "nombre": "NOT. LILIANA CASTAÑEDA SALINAS",
+    "cargo": "Titular Notaría 93",
+    "ubicación": "CUAUTITLÁN IZCALLI, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=146",
+    "maps": "https://maps.app.goo.gl/2Nrsdy8tnoiVJUUWA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=146"
+  },
+  {
+    "id": 94,
+    "nombre": "NOT. ANABEL UGARTE REYES",
+    "cargo": "Titular Notaría 94",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=98",
+    "maps": "https://maps.app.goo.gl/EZLdRH9GjM5uh5uL8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=98"
+  },
+  {
+    "id": 95,
+    "nombre": "NOT. ARTURO GONZÁLEZ JIMÉNEZ",
+    "cargo": "Titular Notaría 95",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=426",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=426"
+  },
+  {
+    "id": 96,
+    "nombre": "NOT. LEONARDO ALFREDO BELTRÁN BALDARES",
+    "cargo": "Titular Notaría 96",
+    "ubicación": "NEZAHUALCÓYOTL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=133",
+    "maps": "https://maps.app.goo.gl/ixhL9VqR84dW6Lv87",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=133"
+  },
+  {
+    "id": 97,
+    "nombre": "NOT. ARTURO SANTÍN QUIROZ",
+    "cargo": "Titular Notaría 97",
+    "ubicación": "VALLE DE BRAVO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=148",
+    "maps": "https://maps.app.goo.gl/U3GV5V5nE6AKZJxs9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=148"
+  },
+  {
+    "id": 98,
+    "nombre": "NOT. MELANIA MARTÍNEZ ALVA",
+    "cargo": "Titular Notaría 98",
+    "ubicación": "ZUMPANGO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=79",
+    "maps": "https://maps.app.goo.gl/QMWsh25o4Jw59cgL9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=79"
+  },
+  {
+    "id": 99,
+    "nombre": "NOT. JUAN JOSÉ RUIZ ORTEGA",
+    "cargo": "Titular Notaría 99",
+    "ubicación": "CUAUTITLÁN IZCALLI, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=124",
+    "maps": "https://maps.app.goo.gl/jQcULpg9i9c29fey6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=124"
+  },
+  {
+    "id": 100,
+    "nombre": "NOT. ROGERIO ISMAEL VELASCO GONZÁLEZ",
+    "cargo": "Titular Notaría 100",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=170",
+    "maps": "https://maps.app.goo.gl/5p9AbDjBf26Kcmsa7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=170"
+  },
+  {
+    "id": 101,
+    "nombre": "NOT. REGINA REYES RETANA MÁRQUEZ PADILLA",
+    "cargo": "Titular Notaría 101",
+    "ubicación": "JILOTEPEC, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=130",
+    "maps": "https://maps.app.goo.gl/NgU9LNQS5v585c7k9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=130"
+  },
+  {
+    "id": 103,
+    "nombre": "NOT. VÍCTOR ALFONSO VARELA VELASCO",
+    "cargo": "Titular Notaría 103",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=5",
+    "maps": "https://maps.app.goo.gl/yyD5TJyjzL6JqSnx7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=5"
+  },
+  {
+    "id": 104,
+    "nombre": "NOT. NATHANIEL RUÍZ ZAPATA",
+    "cargo": "Titular Notaría 104",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=12",
+    "maps": "https://maps.app.goo.gl/M61fzaczYLs2XUKn6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=12"
+  },
+  {
+    "id": 105,
+    "nombre": "NOT. CONRADO ZUCKERMANN PONCE",
+    "cargo": "Titular Notaría 105",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=69",
+    "maps": "https://maps.app.goo.gl/Hn5tbHGQygdQx3Y86",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=69"
+  },
+  {
+    "id": 106,
+    "nombre": "NOT. JORGE ALEJANDRO MENDOZA ANDRADE\nINTERINO",
+    "cargo": "Titular Notaría 106",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=118",
+    "maps": "https://maps.app.goo.gl/MAbcNm58CMDQLT4C9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=118"
+  },
+  {
+    "id": 107,
+    "nombre": "NOT. ROSA MARÍA REED PADILLA",
+    "cargo": "Titular Notaría 107",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=23",
+    "maps": "https://maps.app.goo.gl/mAy3L7LGzcpgdgJG6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=23"
+  },
+  {
+    "id": 108,
+    "nombre": "NOT. ALBERTO BRICEÑO ALATRISTE",
+    "cargo": "Titular Notaría 108",
+    "ubicación": "CUAUTITLÁN IZCALLI, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=119",
+    "maps": "https://maps.app.goo.gl/BoATKEgStErDZhNK7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=119"
+  },
+  {
+    "id": 109,
+    "nombre": "NOT. GABRIEL LUIS EZETA MORALES",
+    "cargo": "Titular Notaría 109",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=14",
+    "maps": "https://maps.app.goo.gl/LsiaqM6maayRv6SA6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=14"
+  },
+  {
+    "id": 110,
+    "nombre": "NOT. CARLOS FRANCISCO CASTRO SUÁREZ",
+    "cargo": "Titular Notaría 110",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=155",
+    "maps": "https://maps.app.goo.gl/SMSJSHKogP6QbbVc7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=155"
+  },
+  {
+    "id": 111,
+    "nombre": "NOT. ROCIO PEÑA NARVÁEZ",
+    "cargo": "Titular Notaría 111",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=17",
+    "maps": "https://maps.app.goo.gl/SAx46aCQqVm5AWa99",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=17"
+  },
+  {
+    "id": 112,
+    "nombre": "NOT. MARÍA CRISTINA DEL SOCORRO RODRÍGUEZ CABRERA",
+    "cargo": "Titular Notaría 112",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=3",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=3"
+  },
+  {
+    "id": 114,
+    "nombre": "NOT. JUAN BAUTISTA FLORES SÁNCHEZ",
+    "cargo": "Titular Notaría 114",
+    "ubicación": "TENANGO DEL VALLE, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=29",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=29"
+  },
+  {
+    "id": 116,
+    "nombre": "NOT. WILFRIDO ISIDRO MUÑOZ RIVERA",
+    "cargo": "Titular Notaría 116",
+    "ubicación": "SAN MATEO ATENCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=36",
+    "maps": "https://maps.app.goo.gl/YavLz3LwwM12kendA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=36"
+  },
+  {
+    "id": 117,
+    "nombre": "NOT. MIGUEL ÁNGEL IBAÑEZ CAMACHO",
+    "cargo": "Titular Notaría 117",
+    "ubicación": "TECÁMAC, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=111",
+    "maps": "https://maps.app.goo.gl/HPCzmm1Jz6SdvL12A",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=111"
+  },
+  {
+    "id": 118,
+    "nombre": "NOT. MARÍA DEL PILAR ARELLANO RODRÍGUEZ",
+    "cargo": "Titular Notaría 118",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=401",
+    "maps": "https://maps.app.goo.gl/Fix3WCtdYbzWePDY9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=401"
+  },
+  {
+    "id": 119,
+    "nombre": "NOT. JORGE MIGUEL VILLALOBOS SÁNCHEZ",
+    "cargo": "Titular Notaría 119",
+    "ubicación": "TULTITLÁN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=114",
+    "maps": "https://maps.app.goo.gl/KfdvaEUubxMqJGce7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=114"
+  },
+  {
+    "id": 120,
+    "nombre": "NOT. MARÍA JOSEFINA SANTILLANA MARTÍNEZ",
+    "cargo": "Titular Notaría 120",
+    "ubicación": "ATLACOMULCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=147",
+    "maps": "https://maps.app.goo.gl/qcnCtS3CAurPxwgq6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=147"
+  },
+  {
+    "id": 121,
+    "nombre": "NOT. FRANCISCO ARCE UGARTE",
+    "cargo": "Titular Notaría 121",
+    "ubicación": "TEJUPILCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=52",
+    "maps": "https://maps.app.goo.gl/xTbn7zjFV47xSm29A",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=52"
+  },
+  {
+    "id": 122,
+    "nombre": "NOT. ANDRÉS HOFFMANN PALOMAR",
+    "cargo": "Titular Notaría 122",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=4",
+    "maps": "https://maps.app.goo.gl/2eoEmdTxhmAzaLRi7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=4"
+  },
+  {
+    "id": 123,
+    "nombre": "NOT. ARTURO JAVIER GARDUÑO PÉREZ",
+    "cargo": "Titular Notaría 123",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=2",
+    "maps": "https://maps.app.goo.gl/NPnKHRv4CohBXqhR9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=2"
+  },
+  {
+    "id": 124,
+    "nombre": "NOT. JUAN ALBERTO MARTÍNEZ AMIGÓN",
+    "cargo": "Titular Notaría 124",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=71",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=71"
+  },
+  {
+    "id": 125,
+    "nombre": "NOT. JORGE RAMOS CAMPIRÁN",
+    "cargo": "Titular Notaría 125",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=42",
+    "maps": "https://maps.app.goo.gl/Xdo2vF28TNuJjheaA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=42"
+  },
+  {
+    "id": 126,
+    "nombre": "NOT. SALVADOR XIMÉNEZ ESPARZA",
+    "cargo": "Titular Notaría 126",
+    "ubicación": "CHALCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=385",
+    "maps": "https://maps.app.goo.gl/4PiL3Qe1aKp25zpW7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=385"
+  },
+  {
+    "id": 127,
+    "nombre": "NOT. FRANCISCO MALDONADO RUÍZ",
+    "cargo": "Titular Notaría 127",
+    "ubicación": "IXTAPALUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=72",
+    "maps": "https://maps.app.goo.gl/uq9WJYbvYMrQ3KHm9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=72"
+  },
+  {
+    "id": 128,
+    "nombre": "NOT. FLAVIO SERGIO DE LA ROSA PINEDA",
+    "cargo": "Titular Notaría 128",
+    "ubicación": "TEXCOCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=126",
+    "maps": "https://maps.app.goo.gl/VC55uC9rn8KF1yZo9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=126"
+  },
+  {
+    "id": 129,
+    "nombre": "NOT. CARLOS HOFFMANN PALOMAR",
+    "cargo": "Titular Notaría 129",
+    "ubicación": "COACALCO DE BERRIOZÁBAL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=48",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=48"
+  },
+  {
+    "id": 130,
+    "nombre": "NOT. MARTÍN GILBERTO ADAME LÓPEZ\nINTERINO",
+    "cargo": "Titular Notaría 130",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=49",
+    "maps": "https://maps.app.goo.gl/75LPYkbGGD3jcdtG7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=49"
+  },
+  {
+    "id": 131,
+    "nombre": "NOT. EMMANUEL VILLICAÑA SOTO",
+    "cargo": "Titular Notaría 131",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=384",
+    "maps": "https://maps.app.goo.gl/8WnVbaEUGmYZFpXx9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=384"
+  },
+  {
+    "id": 132,
+    "nombre": "NOT. ENRIQUE SERRANO HERRERA",
+    "cargo": "Titular Notaría 132",
+    "ubicación": "ZINACANTEPEC, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=15",
+    "maps": "https://maps.app.goo.gl/CJ4ZjJgyVM2hpjpR8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=15"
+  },
+  {
+    "id": 133,
+    "nombre": "NOT. GUILLERMO ALBERTO RUBIO DÍAZ",
+    "cargo": "Titular Notaría 133",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=41",
+    "maps": "https://maps.app.goo.gl/rBEh32UPwixSMjHV9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=41"
+  },
+  {
+    "id": 134,
+    "nombre": "NOT. LUIS ALBERTO DOMÍNGUEZ GONZÁLEZ",
+    "cargo": "Titular Notaría 134",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=33",
+    "maps": "https://maps.app.goo.gl/ESqpcg8TEiRdwz3s6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=33"
+  },
+  {
+    "id": 135,
+    "nombre": "NOT. PATRICIA NIETO CID DEL PRADO",
+    "cargo": "Titular Notaría 135",
+    "ubicación": "NEZAHUALCÓYOTL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=429",
+    "maps": "https://maps.app.goo.gl/WWBbHeUY28vYxYEDA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=429"
+  },
+  {
     "id": 136,
-    "nombre": "Víctor Humberto Benítez González",
+    "nombre": "NOT. VÍCTOR HUMBERTO BENÍTEZ GONZÁLEZ",
     "cargo": "Titular Notaría 136",
-    "ubicación": "Metepec, Edo. de Méx.",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
     "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=6",
-    "maps": "https://maps.app.goo.gl/ygZrxsZFaU1eJcrP8",
-    "nombramiento": "https://legislacion.edomex.gob.mx/sites/legislacion.edomex.gob.mx/files/files/pdf/gct/2005/abr064.pdf"
+    "maps": "https://maps.app.goo.gl/RL7qGZf1MASrwCjw7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=6"
+  },
+  {
+    "id": 137,
+    "nombre": "NOT. PEDRO GUY DEL PASO JUIN\nINTERINO",
+    "cargo": "Titular Notaría 137",
+    "ubicación": "CUAUTITLÁN IZCALLI, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=97",
+    "maps": "https://maps.app.goo.gl/wLigpJMcvUCU2NsX9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=97"
+  },
+  {
+    "id": 138,
+    "nombre": "NOT. TERESA PEÑA GASPAR",
+    "cargo": "Titular Notaría 138",
+    "ubicación": "TEPOTZOTLÁN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=78",
+    "maps": "https://maps.app.goo.gl/GBN4Ax29qPUS77AQ6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=78"
+  },
+  {
+    "id": 139,
+    "nombre": "NOT. ARABELA OCHOA VALDIVIA",
+    "cargo": "Titular Notaría 139",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=110",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=110"
+  },
+  {
+    "id": 140,
+    "nombre": "NOT. JOSÉ ALFONSO PORTILLA BALMORI",
+    "cargo": "Titular Notaría 140",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=62",
+    "maps": "https://maps.app.goo.gl/BjAMSr1AuZfXtuHg6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=62"
+  },
+  {
+    "id": 141,
+    "nombre": "NOT. ARACELI DE LA RIVA MARTÍNEZ",
+    "cargo": "Titular Notaría 141",
+    "ubicación": "CHALCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=9",
+    "maps": "https://maps.app.goo.gl/ZmV7ChUEwW1RutWe9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=9"
+  },
+  {
+    "id": 142,
+    "nombre": "NOT. EDGAR RODOLFO MACEDO NÚÑEZ",
+    "cargo": "Titular Notaría 142",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=168",
+    "maps": "https://maps.app.goo.gl/LbxrzrANCaf77Vq46",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=168"
+  },
+  {
+    "id": 143,
+    "nombre": "NOT. DULCE MARÍA VILCHIS SANDOVAL\nINTERINA",
+    "cargo": "Titular Notaría 143",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=167",
+    "maps": "https://maps.app.goo.gl/W1PMDzrUyUeEvkwt6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=167"
+  },
+  {
+    "id": 144,
+    "nombre": "NOT. ARMIDA ARACELI ALONSO MADRIGAL",
+    "cargo": "Titular Notaría 144",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=128",
+    "maps": "https://maps.app.goo.gl/u9VHXqoEAunrcodB6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=128"
+  },
+  {
+    "id": 146,
+    "nombre": "NOT. MARTHA ELBA TERRÓN MENDOZA",
+    "cargo": "Titular Notaría 146",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=27",
+    "maps": "https://maps.app.goo.gl/NJr5gSMcWKodFDA17",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=27"
+  },
+  {
+    "id": 147,
+    "nombre": "NOT. MARISOL MARTÍNEZ MORALES\nINTERINA",
+    "cargo": "Titular Notaría 147",
+    "ubicación": "TULTITLÁN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=151",
+    "maps": "https://maps.app.goo.gl/gJsHbhaAnXBroYB5A",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=151"
+  },
+  {
+    "id": 148,
+    "nombre": "NOT. ERICK MURILLO BASTIEN",
+    "cargo": "Titular Notaría 148",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=59",
+    "maps": "https://maps.app.goo.gl/Q6vnqKVotNymyfmc6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=59"
+  },
+  {
+    "id": 149,
+    "nombre": "NOT. JOSÉ MANUEL GÓMEZ DEL CAMPO GURZA",
+    "cargo": "Titular Notaría 149",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=125",
+    "maps": "https://maps.app.goo.gl/gp4MHCN5uEfNALQb7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=125"
+  },
+  {
+    "id": 150,
+    "nombre": "NOT. ALEJANDRO CABALLERO GASTELUM",
+    "cargo": "Titular Notaría 150",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=156",
+    "maps": "https://maps.app.goo.gl/8PZcCapsDegTugFeA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=156"
+  },
+  {
+    "id": 151,
+    "nombre": "NOT. JOSÉ GOÑI DÍAZ",
+    "cargo": "Titular Notaría 151",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=432",
+    "maps": "https://maps.app.goo.gl/mWVFUYxGJsvQddoi9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=432"
+  },
+  {
+    "id": 153,
+    "nombre": "NOT. CLAUDIA GABRIELA FRANCOZ GÁRATE",
+    "cargo": "Titular Notaría 153",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=122",
+    "maps": "https://maps.app.goo.gl/ns3g1QLmwK1JsrGF6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=122"
+  },
+  {
+    "id": 154,
+    "nombre": "NOT. MARTÍN MARCO ANTONIO VILCHIS SANDOVAL",
+    "cargo": "Titular Notaría 154",
+    "ubicación": "SAN FELIPE DEL PROGRESO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=164",
+    "maps": "https://maps.app.goo.gl/ZsumSu2Ar3ec2U7a8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=164"
+  },
+  {
+    "id": 155,
+    "nombre": "NOT. HILDA ALEJANDRA LARA TERRIQUEZ",
+    "cargo": "Titular Notaría 155",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=38",
+    "maps": "https://maps.app.goo.gl/4ivNLchEUqyMxjJ39",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=38"
+  },
+  {
+    "id": 156,
+    "nombre": "NOT. MÓNICA BERENICE CASTRO MONDRAGÓN",
+    "cargo": "Titular Notaría 156",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=95",
+    "maps": "https://maps.app.goo.gl/DRdQgXtUNWkYVpaB8",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=95"
+  },
+  {
+    "id": 157,
+    "nombre": "NOT. JORGE ADALBERTO BECERRIL RUIZ",
+    "cargo": "Titular Notaría 157",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=86",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=86"
+  },
+  {
+    "id": 158,
+    "nombre": "NOT. JOSÉ ALFREDO DE LA CRUZ ROBLES",
+    "cargo": "Titular Notaría 158",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=141",
+    "maps": "https://maps.app.goo.gl/sFRqLxhBnVoJwVfbA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=141"
+  },
+  {
+    "id": 159,
+    "nombre": "NOT. CLAUDIA JENNY VILLICAÑA SOTO",
+    "cargo": "Titular Notaría 159",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=75",
+    "maps": "https://maps.app.goo.gl/JDdewoF7kqxrYKtZ9",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=75"
+  },
+  {
+    "id": 160,
+    "nombre": "NOT. ANDRÉS CARLOS VIESCA URQUIAGA",
+    "cargo": "Titular Notaría 160",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=173",
+    "maps": "https://maps.app.goo.gl/EiPQNU3vjwRivEAFA",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=173"
+  },
+  {
+    "id": 161,
+    "nombre": "NOT. TERESITA JOSEFINA LIBIEN ÁVILA",
+    "cargo": "Titular Notaría 161",
+    "ubicación": "SAN MATEO ATENCO, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=120",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=120"
+  },
+  {
+    "id": 162,
+    "nombre": "NOT. PABLO RAÚL LIBIEN ABRAHAM",
+    "cargo": "Titular Notaría 162",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=46",
+    "maps": "https://maps.app.goo.gl/618s4Zf9T85PpaRM6",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=46"
+  },
+  {
+    "id": 163,
+    "nombre": "NOT. PATRICIA MÓNICA RUÍZ DE CHÁVEZ RINCÓN GALLARDO",
+    "cargo": "Titular Notaría 163",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=45",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=45"
+  },
+  {
+    "id": 164,
+    "nombre": "NOT. JAIME VÁZQUEZ CASTILLO",
+    "cargo": "Titular Notaría 164",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=132",
+    "maps": "https://maps.app.goo.gl/qFSkJCxPPbQxc8Fo7",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=132"
+  },
+  {
+    "id": 165,
+    "nombre": "NOT.  JOSÉ RUBÉN VALDEZ ABASCAL",
+    "cargo": "Titular Notaría 165",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=402",
+    "maps": "https://maps.google.com/maps?ll=19.426774,-99.227293&z=14&t=m&hl=es-419&gl=MX&mapclient=embed&cid=7081714326269062643",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=402"
+  },
+  {
+    "id": 167,
+    "nombre": "NOT. MARÍA GUADALUPE MONTER FLORES",
+    "cargo": "Titular Notaría 167",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=85",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=85"
+  },
+  {
+    "id": 168,
+    "nombre": "NOT. JUAN CARLOS ORTEGA REYES",
+    "cargo": "Titular Notaría 168",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=144",
+    "maps": "https://maps.google.com/maps?ll=19.413243,-99.246419&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&cid=10681464676772865241",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=144"
+  },
+  {
+    "id": 169,
+    "nombre": "NOT. SERGIO FERNÁNDEZ MARTÍNEZ",
+    "cargo": "Titular Notaría 169",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=406",
+    "maps": "https://maps.google.com/maps?ll=19.402752,-99.271418&z=16&t=m&hl=es-419&gl=MX&mapclient=embed&q=Parque%20de%20Granada%2025%20Parques%20de%20la%20Herradura%2052787%20Ciudad%20de%20México%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=406"
+  },
+  {
+    "id": 170,
+    "nombre": "NOT. ARMANDO GARDUÑO PÉREZ",
+    "cargo": "Titular Notaría 170",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=30",
+    "maps": "https://maps.google.com/maps?ll=19.278153,-99.689565&z=18&t=m&hl=es-MX&gl=US&mapclient=embed&q=Blvd.%20Solidaridad%20las%20Torres%20401%20Cultural%2050110%20San%20Buenaventura%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=30"
+  },
+  {
+    "id": 171,
+    "nombre": "NOT. MARTÍN BERNARDO RODRÍGUEZ HERNÁNDEZ",
+    "cargo": "Titular Notaría 171",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=112",
+    "maps": "https://maps.google.com/maps?ll=19.641751,-99.094458&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=Blvd.%20de%20las%20Rosas%20155%20Villa%20de%20las%20Flores%2055710%20San%20Francisco%20Coacalco%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=112"
+  },
+  {
+    "id": 172,
+    "nombre": "NOT. MIGUEL ÁNGEL LARREGUI HERNÁNDEZ",
+    "cargo": "Titular Notaría 172",
+    "ubicación": "ZINACANTEPEC, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=163",
+    "maps": "https://maps.google.com/maps?ll=19.641751,-99.094458&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=Blvd.%20de%20las%20Rosas%20155%20Villa%20de%20las%20Flores%2055710%20San%20Francisco%20Coacalco%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=163"
+  },
+  {
+    "id": 173,
+    "nombre": "NOT. JESÚS JIMÉNEZ CELAYA",
+    "cargo": "Titular Notaría 173",
+    "ubicación": "CUAUTITLÁN IZCALLI, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=40",
+    "maps": "https://maps.google.com/maps?ll=19.665701,-99.215269&z=16&t=m&hl=es-419&gl=MX&mapclient=embed&q=Av%20De%20Los%20Reyes%20Lt.3%20Mz.7%20Santa%20Rosa%20de%20Lima%2054740%20Cuautitlán%20Izcalli%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=40"
+  },
+  {
+    "id": 174,
+    "nombre": "NOT. HAZAEL TORRES HUITRÓN",
+    "cargo": "Titular Notaría 174",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=171",
+    "maps": "https://maps.google.com/maps?ll=19.600315,-99.054918&z=15&t=m&hl=es-MX&gl=US&mapclient=embed&q=Tampico%20Tierra%20Blanca%2055020%20Ecatepec%20de%20Morelos%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=171"
+  },
+  {
+    "id": 175,
+    "nombre": "NOT. JAVIER VÁZQUEZ MELLADO MIER Y TERÁN\nINTERINO",
+    "cargo": "Titular Notaría 175",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=26",
+    "maps": "https://maps.google.com/maps?ll=19.506838,-99.233987&z=16&t=m&hl=es-419&gl=MX&mapclient=embed&q=Cto%20Centro%20Comercial%206%20Cd.%20Satélite%2053100%20Naucalpan%20de%20Juárez%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=26"
+  },
+  {
+    "id": 176,
+    "nombre": "NOT. RAFAEL GONZÁLEZ CUBAS",
+    "cargo": "Titular Notaría 176",
+    "ubicación": "TECÁMAC, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=394",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=394"
+  },
+  {
+    "id": 177,
+    "nombre": "NOT. BERNABÉ VALDEZ CONTRERAS",
+    "cargo": "Titular Notaría 177",
+    "ubicación": "IXTAPALUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=84",
+    "maps": "https://maps.google.com/maps?ll=19.557644,-99.767598&z=14&t=m&hl=es-MX&gl=US&mapclient=embed&q=Barrio%20San%20Joaquín%20el%20Junco%2050783%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=84"
+  },
+  {
+    "id": 178,
+    "nombre": "NOT. CARLOS AXEL MORALES PAULÍN",
+    "cargo": "Titular Notaría 178",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=13",
+    "maps": "https://maps.google.com/maps?ll=19.507762,-99.233137&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=First%20floor%20Cto.%20Medicos%2024%20Ciudad%20Satélite%2053100%20Naucalpan%20de%20Juárez%2C%20Estado%20de%20México",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=13"
+  },
+  {
+    "id": 179,
+    "nombre": "NOT. ROBERTO RUÍZ ÁNGELES",
+    "cargo": "Titular Notaría 179",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=68",
+    "maps": "https://maps.google.com/maps?ll=19.489465,-99.22869&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=Hda.%20San%20José%20Vista%20Hermosa%20125%20Bosques%20de%20Echegaray%2053310%20Naucalpan%20de%20Juárez%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=68"
+  },
+  {
+    "id": 180,
+    "nombre": "NOT. JUAN PABLO MORALES BROC",
+    "cargo": "Titular Notaría 180",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=172",
+    "maps": "https://maps.google.com/maps?ll=19.427579,-99.228485&z=16&t=m&hl=es&gl=MX&mapclient=embed&q=C.%20Atlaltunco%2019%20Lomas%20de%20Tecamachalco%2053950%20Naucalpan%20de%20Juárez%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=172"
+  },
+  {
+    "id": 181,
+    "nombre": "NOT. TANIA LORENA LUGO PAZ",
+    "cargo": "Titular Notaría 181",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=161",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=161"
+  },
+  {
+    "id": 182,
+    "nombre": "NOT. ERNESTO SANTÍN QUIROZ",
+    "cargo": "Titular Notaría 182",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=21",
+    "maps": "https://maps.google.com/maps?ll=19.262019,-99.576877&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=Av%20Tecnológico%20110%20Bella%20Vista%2052172%20San%20Salvador%20Tizatlalli%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=21"
+  },
+  {
+    "id": 183,
+    "nombre": "NOT. ALEJANDRO AGUNDIS ARIAS",
+    "cargo": "Titular Notaría 183",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=179",
+    "maps": "https://maps.google.com/maps?ll=19.262019,-99.576877&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=Av%20Tecnológico%20110%20Bella%20Vista%2052172%20San%20Salvador%20Tizatlalli%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=179"
+  },
+  {
+    "id": 184,
+    "nombre": "NOT. GUSTAVO FERNÁNDEZ SAURI",
+    "cargo": "Titular Notaría 184",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=180",
+    "maps": "https://maps.google.com/maps?ll=19.401705,-99.274076&z=17&t=m&hl=es-MX&gl=US&mapclient=embed&q=Pje.%20Interlomas%206%20Bosque%20de%20las%20Palmas%2052786%20Naucalpan%20de%20Juárez%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=180"
+  },
+  {
+    "id": 185,
+    "nombre": "NOT. MARCELO ROSSETTO ARMIDA",
+    "cargo": "Titular Notaría 185",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=181",
+    "maps": "https://maps.google.com/maps?ll=19.428535,-99.227604&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=Av%20de%20las%20Fuentes%2041%20Lomas%20de%20Tecamachalco%2053950%20Naucalpan%20de%20Juárez%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=181"
+  },
+  {
+    "id": 186,
+    "nombre": "NOT. LUZ MARÍA ANGÉLICA ALATORRE CARBAJAL",
+    "cargo": "Titular Notaría 186",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=182",
+    "maps": "https://maps.google.com/maps?ll=19.572481,-99.302289&z=8&t=m&hl=es-MX&gl=US&mapclient=embed&cid=9493056743581338117",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=182"
+  },
+  {
+    "id": 187,
+    "nombre": "NOT. BEATRIZ MERCEDES CORONA MERCADO",
+    "cargo": "Titular Notaría 187",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=183",
+    "maps": "https://maps.google.com/maps?ll=19.275635,-99.603795&z=17&t=m&hl=es-MX&gl=US&mapclient=embed&cid=15174149502089855722",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=183"
+  },
+  {
+    "id": 188,
+    "nombre": "NOT. RICARDO GIOVANN ARREDONDO LINO",
+    "cargo": "Titular Notaría 188",
+    "ubicación": "HUIXQUILUCAN, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=184",
+    "maps": "https://maps.google.com/maps?ll=19.402356,-99.270158&z=14&t=m&hl=es-MX&gl=US&mapclient=embed&cid=3708226945154624540",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=184"
+  },
+  {
+    "id": 189,
+    "nombre": "NOT. LORENA GÁRATE MEJÍA",
+    "cargo": "Titular Notaría 189",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=185",
+    "maps": "https://maps.google.com/maps?ll=19.516531,-99.229746&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=Av.%20de%20Las%20Fuentes%201%20Ampliación%20Vista%20Hermosa%2C%20Cd.%20Satélite%2054080%20Naucalpan%20de%20Juárez%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=185"
+  },
+  {
+    "id": 190,
+    "nombre": "NOT. MARIO ALFREDO JARAMILLO MANZUR",
+    "cargo": "Titular Notaría 190",
+    "ubicación": "TOLUCA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=186",
+    "maps": "https://maps.google.com/maps?ll=19.292302,-99.630912&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=Av.%20Independencia%201400%20Reforma%20y%20FFCC%20Nacionales%2050070%20Toluca%20de%20Lerdo%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=186"
+  },
+  {
+    "id": 191,
+    "nombre": "NOT. ERASTO MARTÍNEZ ROJAS",
+    "cargo": "Titular Notaría 191",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=187",
+    "maps": "https://maps.google.com/maps?ll=19.427743,-99.227493&z=16&t=m&hl=en&gl=MX&mapclient=embed&q=C.%20Atlaltunco%206%20Lomas%20de%20Tecamachalco%2053950%20Naucalpan%20de%20Juárez%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=187"
+  },
+  {
+    "id": 192,
+    "nombre": "NOT. FRANCISCO XAVIER BORREGO HINOJOSA LINAGE",
+    "cargo": "Titular Notaría 192",
+    "ubicación": "TLALNEPANTLA DE BAZ, ESTADO MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=188",
+    "maps": "https://maps.google.com/maps?ll=19.533569,-99.207429&z=16&t=m&hl=es-MX&gl=US&mapclient=embed&q=001%20La%20Loma%2054060%20Tlalnepantla%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=188"
+  },
+  {
+    "id": 194,
+    "nombre": "NOT. LUIS ALEJANDRO DURÁN ABASCAL",
+    "cargo": "Titular Notaría 194",
+    "ubicación": "IXTAPAN DE LA SAL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=389",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=389"
+  },
+  {
+    "id": 195,
+    "nombre": "NOT. LILIANA MENDOZA HERRERA",
+    "cargo": "Titular Notaría 195",
+    "ubicación": "VALLE DE CHALCO SOLIDARIDAD, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=395",
+    "maps": "https://maps.google.com/maps?ll=19.27201,-98.944246&z=16&t=m&hl=es-419&gl=MX&mapclient=embed&q=Pte.%201-A%20San%20Miguel%20Xico%2056613%20Valle%20de%20Chalco%20Solidaridad%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=395"
+  },
+  {
+    "id": 196,
+    "nombre": "NOT. FRANCISCO ARCE ARELLANO",
+    "cargo": "Titular Notaría 196",
+    "ubicación": "CALIMAYA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=393",
+    "maps": "https://maps.google.com/maps?ll=19.164446,-99.614325&z=16&t=m&hl=es-419&gl=MX&mapclient=embed&q=La%20Joya%202%20Cruz%20Verde%2052204%20Calimaya%20de%20Díaz%20González%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=393"
+  },
+  {
+    "id": 197,
+    "nombre": "NOT. PALMIRA CORTÉS RAMÍREZ",
+    "cargo": "Titular Notaría 197",
+    "ubicación": "ATIZAPÁN DE ZARAGOZA, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=391",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=391"
+  },
+  {
+    "id": 198,
+    "nombre": "NOT. ENRIQUE ANTONIO GILES RENDIS\nINTERINO",
+    "cargo": "Titular Notaría 198",
+    "ubicación": "NAUCALPAN DE JUÁREZ, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=411",
+    "maps": "https://maps.google.com/maps?ll=19.425911,-99.232522&z=16&t=m&hl=es&gl=MX&mapclient=embed&q=Av%20de%20las%20Fuentes%20100%20Lomas%20de%20Tecamachalco%2053950%20Naucalpan%20de%20Juárez%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=411"
+  },
+  {
+    "id": 199,
+    "nombre": "NOT. MARIO ROSALES MORA",
+    "cargo": "Titular Notaría 199",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=419",
+    "maps": "https://maps.google.com/maps?ll=19.601422,-99.046506&z=16&t=m&hl=es-419&gl=MX&mapclient=embed&q=Pensador%20Mexicano%2013%20San%20Cristóbal%20Centro%2055000%20Ecatepec%20de%20Morelos%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=419"
+  },
+  {
+    "id": 200,
+    "nombre": "NOT. FRANKLIN ANTONIO LIBIEN PANIAGUA",
+    "cargo": "Titular Notaría 200",
+    "ubicación": "METEPEC, ESTADO DE MÉXICO,",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=409",
+    "maps": "https://maps.google.com/maps?ll=19.261391,-99.626526&z=14&t=m&hl=es-419&gl=MX&mapclient=embed&cid=16096764432194417430",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=409"
+  },
+  {
+    "id": 201,
+    "nombre": "NOT. LUIS GERARDO DE LA PEÑA GUTIÉRREZ",
+    "cargo": "Titular Notaría 201",
+    "ubicación": "ECATEPEC DE MORELOS, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=405",
+    "maps": "https://maps.google.com/maps?ll=19.541198,-99.057744&z=16&t=m&hl=es-419&gl=MX&mapclient=embed&q=Vía%20Morelos%20419%20Santa%20Clara%20Coatitla%2055540%20Ecatepec%20de%20Morelos%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=405"
+  },
+  {
+    "id": 203,
+    "nombre": "NOT. JAVIER VARGAS VILLAVICENCIO",
+    "cargo": "Titular Notaría 203",
+    "ubicación": "COACALCO DE BERRIOZÁBAL, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=417",
+    "maps": "https://maps.google.com/maps?ll=19.646348,-99.087219&z=16&t=m&hl=es-419&gl=MX&mapclient=embed&q=Plaza%20las%20Flores%20San%20Francisco%20Coacalco%2C%20Méx.",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=417"
+  },
+  {
+    "id": 205,
+    "nombre": "NOT. JOSÉ TRINIDAD MARTÍN VILCHIS MEJÍA",
+    "cargo": "Titular Notaría 205",
+    "ubicación": "OTZOLOTEPEC, ESTADO DE MÉXICO",
+    "tarjeta": "https://colegiodenotariosedomex.org.mx/tarjeta-notario?id=413",
+    "maps": "",
+    "nombramiento": "https://colegiodenotariosedomex.org.mx/nombramiento-notario?id=413"
   }
 ]
