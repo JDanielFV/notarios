@@ -1,22 +1,20 @@
 import React, { useEffect, useState } from 'react';
 import styled, { keyframes } from 'styled-components';
 
-const fadeIn = keyframes`
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
+const fadeInOut1 = keyframes`
+  0% { opacity: 0; }
+  10% { opacity: 1; }
+  40% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 0; }
 `;
 
-const fadeOut = keyframes`
-  from {
-    opacity: 1;
-  }
-  to {
-    opacity: 0;
-  }
+const fadeInOut2 = keyframes`
+  0% { opacity: 0; }
+  50% { opacity: 0; }
+  60% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { opacity: 0; }
 `;
 
 const SplashContainer = styled.div`
@@ -30,39 +28,55 @@ const SplashContainer = styled.div`
   justify-content: center;
   align-items: center;
   z-index: 9999;
-  animation: ${fadeOut} 0.5s ease-out forwards;
-  animation-delay: 2.5s; /* Start fade out after 2.5s (0.5s logo delay + 2s logo display) */
+  opacity: ${props => (props.visible ? 1 : 0)};
+  transition: opacity 1.5s ease-out;
+  pointer-events: ${props => (props.visible ? 'all' : 'none')};
 `;
 
-const SplashLogo = styled.img`
-  width: 200px; /* Adjust size as needed */
-  height: auto;
+const SplashImage = styled.img`
+  position: absolute;
+  width: 250px;
+  height: 250px;
+  object-fit: contain;
   opacity: 0;
-  animation: ${fadeIn} 1s ease-out forwards;
-  animation-delay: 0.5s; /* Start fade in after 0.5s */
+`;
+
+const Image1 = styled(SplashImage)`
+  animation: ${fadeInOut1} 4.5s linear forwards;
+`;
+
+const Image2 = styled(SplashImage)`
+  animation: ${fadeInOut2} 4.5s linear forwards;
 `;
 
 const Splash = ({ onFinish }) => {
   const [visible, setVisible] = useState(true);
+  const [mounted, setMounted] = useState(true);
 
   useEffect(() => {
-    const timer = setTimeout(() => {
-      setVisible(false);
+    const transitionTimer = setTimeout(() => {
+      setVisible(false); // Start fade out
       if (onFinish) {
-        onFinish();
+        onFinish(); // Start content fade in
       }
-    }, 3000); // Total duration: 0.5s (delay) + 2s (logo display) + 0.5s (fade out) = 3s
+    }, 4500); // Duration of logo animations
 
-    return () => clearTimeout(timer);
+    const unmountTimer = setTimeout(() => {
+      setMounted(false); // Remove from DOM after fade out
+    }, 6000); // 4500ms + 1500ms transition
+
+    return () => {
+      clearTimeout(transitionTimer);
+      clearTimeout(unmountTimer);
+    };
   }, [onFinish]);
 
-  if (!visible) {
-    return null;
-  }
+  if (!mounted) return null;
 
   return (
-    <SplashContainer>
-      <SplashLogo src='./splash.png' alt="Logo" />
+    <SplashContainer visible={visible}>
+      <Image1 src='./logo1.png' alt="Logo 1" />
+      <Image2 src='./splash.png' alt="Logo 2" />
     </SplashContainer>
   );
 };
